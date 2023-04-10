@@ -38,9 +38,11 @@
 
 **进入项目目录后**
 
->npm run start
+>npm install
 
 端口为3000
+
+>npm run start
 
 ### 数据库文件在sql文件夹下
 
