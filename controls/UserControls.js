@@ -5,8 +5,8 @@ const { sySqlConnect } = require("../dbUtiles/dbConfig");
 const dbConfig = require("../dbUtiles/dbConfig");
 const db = require("../dbUtiles/dbConfig");
 const smsClient = new SMSClient({
-  accessKeyId: "LTAI5tE72ZtWKeLQHDJMorFu",
-  secretAccessKey: "F211YVhgJS0NYT6xgelJFifu9ZscFC",
+  accessKeyId: "填上阿里云的accessKey",
+  secretAccessKey: "填上阿里云的accessKey",
 });
 //配置阿里短信验证
 
